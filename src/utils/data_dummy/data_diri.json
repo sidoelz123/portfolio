@@ -4,7 +4,7 @@
   "role": "Front End Developer",
   "email": "ihzamaulanaz.77@gmail.com",
   "no_telepon": "085226163132",
-  "link_CV": "http://google.com",
+  "link_CV": "https://drive.google.com/file/d/1GPF0pkIBzIvcimy-v37A0xwg7wZ7_9Hb/view?usp=sharing",
   "address": "Margasari, Tegal Regency, Central Java, Indonesia",
   "social_media": {
     "github": "https://github.com/sidoelz123",
@@ -14,19 +14,53 @@
   "about_us": "I am a fresh graduate of Applied Bachelor of Information Technology from Politeknik Harapan Bersama, with a deep interest in software development, especially in the frontend area. I have a strong interest in JavaScript such as Vue.js and React.js. With a high passion for learning, I always strive to expand my knowledge and keep up with the latest trends in technology. I highly value teamwork and believe that collaboration is the key to come up with innovative solutions. I am ready to take on new challenges and contribute positively in the development team.",
   "work_experience": [
     {
-      "work_name": "",
-      "work_address": "",
-      "work_role": "",
-      "work_start": "",
-      "work_end": ""
+      "work_title": "Intern DevOps Engineer",
+      "work_company": "Sekawan Media",
+      "work_type": "Internship",
+      "work_address": "Malang, East Java",
+      "work_period": "Aug 2023 - Dec 2023"
+    },
+    {
+      "work_title": "Project Based Intern: Frontend Developer Core Intiative x Rakamin Academy",
+      "work_company": "Core Intiative Studio",
+      "work_type": "Internship",
+      "work_address": "Depok, West Java",
+      "work_period": "Jan 2024 - Jan 2024"
     }
   ],
-  "certificate": [
+  "educations": [
     {
-      "certificate_name": "",
-      "start": "",
-      "end": ""
+      "name": "Politeknik Harapan Bersama",
+      "address": "Tegal, Central Java",
+      "undergraduate_level": "Bachelor Degree",
+      "major": "Computer Science",
+      "period": "2020 - 2024"
+    },
+    {
+      "name": "SMK Negeri 01 Tonjong",
+      "address": "Brebes, Central Java",
+      "undergraduate_level": "Automotive Engineering",
+      "major": "",
+      "period": "2015 - 2018"
     }
+  ],
+  "soft_skills": [],
+  "hard_skills": [
+    "Reactjs",
+    "Vuejs",
+    "Expressjs",
+    "Redux",
+    "Pinia",
+    "TailwindCSS",
+    "Bootstrap",
+    "HTML + CSS",
+    "JavaScript",
+    "Typescript",
+    "Networking",
+    "Terraform",
+    "Docker",
+    "Golang",
+    "Gin Gonic"
   ],
   "projects": [
     {
@@ -84,7 +118,7 @@
         "Expressjs",
         "Yolov8"
       ],
-      "describe": "It's an application that aims to provide security for farmers supported by a thief and wild animal detection system and supports direct monitoring using CCTV. this application is made with Vuejs, Expressjs, and Yolov8."
+      "describe": "It's an application that aims to provide security for farmers supported by a thief and wild animal detection system and supports direct monitoring using CCTV."
     }
   ]
 }

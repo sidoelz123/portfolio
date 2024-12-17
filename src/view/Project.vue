@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
-import ProjectCards from '../components/ProjectCards.vue';
 import { data_diri } from '../utils/data_dummy';
+import ProjectCards from '../components/ProjectCards.vue';
 
 const projects = ref(data_diri.projects)
 </script>

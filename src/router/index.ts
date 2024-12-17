@@ -4,14 +4,14 @@ import Contact from '../view/Contact.vue'
 import WorkExperience from '../view/WorkExperience.vue'
 import Project from '../view/Project.vue'
 import Certificate from '../view/Certificate.vue'
-import Notfound from '../view/Notfound.vue'
+import Educations from '../view/Educations.vue'
 const routes = [
   { path: '/', component: Aboutme },
   { path: '/contact', component: Contact },
   { path: '/projects', component: Project },
   { path: '/experience', component: WorkExperience },
   { path: '/certificate', component: Certificate },
-  { path: '/notfound', component: Notfound }
+  { path: '/edu', component: Educations }
 
 ]
 const router = createRouter({

@@ -9,10 +9,12 @@ import SideProfile from './components/SideProfile.vue';
     <div class="w-1/3 ">
       <SideProfile />
     </div>
-    <div class="border-2 w-2/3 rounded-2xl pb-6 text-white ">
-      <h1 class="text-center text-6xl py-2">Portfolio</h1>
-      <NavBar />
-      <main class="px-6 py-6 h-5/6 overflow-y-auto ">
+    <div class="border-2 w-2/3 rounded-2xl text-white overflow-y-auto no-scrollbar scroll-smooth relative">
+      <div class="sticky top-0 pb-6 bg-neutral-800 w-full">
+        <h1 class="text-center text-6xl py-2">Portfolio</h1>
+        <NavBar />
+      </div>
+      <main class="px-6 py-6 ">
         <RouterView />
       </main>
 
