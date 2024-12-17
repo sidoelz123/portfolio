@@ -1,0 +1,90 @@
+{
+  "name": "Ihza Maulana Zakiya",
+  "foto": "/src/assets/profile.png",
+  "role": "Front End Developer",
+  "email": "ihzamaulanaz.77@gmail.com",
+  "no_telepon": "085226163132",
+  "link_CV": "http://google.com",
+  "address": "Margasari, Tegal Regency, Central Java, Indonesia",
+  "social_media": {
+    "github": "https://github.com/sidoelz123",
+    "linkedin": "https://linkedin.com/in/ihzamz",
+    "instagram": "https://instagram.com/ijaa212"
+  },
+  "about_us": "I am a fresh graduate of Applied Bachelor of Information Technology from Politeknik Harapan Bersama, with a deep interest in software development, especially in the frontend area. I have a strong interest in JavaScript such as Vue.js and React.js. With a high passion for learning, I always strive to expand my knowledge and keep up with the latest trends in technology. I highly value teamwork and believe that collaboration is the key to come up with innovative solutions. I am ready to take on new challenges and contribute positively in the development team.",
+  "work_experience": [
+    {
+      "work_name": "",
+      "work_address": "",
+      "work_role": "",
+      "work_start": "",
+      "work_end": ""
+    }
+  ],
+  "certificate": [
+    {
+      "certificate_name": "",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "BMI Kalkulator",
+      "foto": "/src/assets/profile.png",
+      "link": "https://tpa2-ijaa.netlify.app",
+      "tag": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "describe": "It's a body mass index calculator application by determining who is included in the healthy and unhealthy weight groups where this application uses HTML, CSS, and JavaScript technologies."
+    },
+    {
+      "name": "Todo List",
+      "foto": "/src/assets/profile.png",
+      "link": "https://todolist-skilvul.netlify.app",
+      "tag": [
+        "Reactjs",
+        "Redux",
+        "Bootstrap"
+      ],
+      "describe": "The tool used to record and organize the tasks that we need to do.It's a to-do list application that uses HTML, CSS, Bootstrap, Reactjs, and Redux technologies"
+    },
+    {
+      "name": "Movie App",
+      "foto": "/src/assets/profile.png",
+      "link": "https://tpa-3-movieapp.netlify.app/",
+      "tag": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "describe": "An application that displays a list of movies and TV shows with data taken from the API https://themoviedb.org/ and this application is made with HTML, CSS, JavaScript technologies."
+    },
+    {
+      "name": "Kalkulator",
+      "foto": "/src/assets/profile.png",
+      "link": "https://kalap.netlify.app",
+      "tag": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "describe": "It's a simple application designed to perform basic arithmetic operations quickly and easily. It is built using HTML, CSS, and JavaScript,"
+    },
+    {
+      "name": "Harvest Guard",
+      "foto": "/src/assets/profile.png",
+      "link": "https://harvestguard.pluginofficial.tech",
+      "tag": [
+        "Vuejs",
+        "Tailwind",
+        "Pinia",
+        "Expressjs",
+        "Yolov8"
+      ],
+      "describe": "It's an application that aims to provide security for farmers supported by a thief and wild animal detection system and supports direct monitoring using CCTV. this application is made with Vuejs, Expressjs, and Yolov8."
+    }
+  ]
+}
