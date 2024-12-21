@@ -1,6 +1,6 @@
 {
   "name": "Ihza Maulana Zakiya",
-  "foto": "/src/assets/profile.png",
+  "foto": "./src/assets/profile.png",
   "role": "Front End Developer",
   "email": "ihzamaulanaz.77@gmail.com",
   "no_telepon": "085226163132",
@@ -65,7 +65,7 @@
   "projects": [
     {
       "name": "BMI Kalkulator",
-      "foto": "/src/assets/mockup_bmi.png",
+      "foto": "./src/assets/mockup_bmi.png",
       "link": "https://tpa2-ijaa.netlify.app",
       "tag": [
         "HTML",
@@ -76,7 +76,7 @@
     },
     {
       "name": "Todo List",
-      "foto": "/src/assets/mockup_todolist.png",
+      "foto": "./src/assets/mockup_todolist.png",
       "link": "https://todolist-skilvul.netlify.app",
       "tag": [
         "Reactjs",
@@ -87,7 +87,7 @@
     },
     {
       "name": "Movie App",
-      "foto": "/src/assets/mockup_movieapp.png",
+      "foto": "./src/assets/mockup_movieapp.png",
       "link": "https://tpa-3-movieapp.netlify.app/",
       "tag": [
         "HTML",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Kalkulator",
-      "foto": "/src/assets/mockup_kalkulator.png",
+      "foto": "./src/assets/mockup_kalkulator.png",
       "link": "https://kalap.netlify.app",
       "tag": [
         "HTML",
@@ -109,7 +109,7 @@
     },
     {
       "name": "Harvest Guard",
-      "foto": "/src/assets/mockup_harvestguard.png",
+      "foto": "./src/assets/mockup_harvestguard.png",
       "link": "https://harvestguard.pluginofficial.tech",
       "tag": [
         "Vuejs",

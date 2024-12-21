@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-evenly text-yellow-300 font-bold">
+  <div class="z-50 flex flex-col lg:flex-row gap-4 text-center lg:justify-evenly text-yellow-300 font-bold">
     <RouterLink class="group relative inline-block text-sm focus:outline-none" to="/">
       <span
         class="absolute inset-0 border border-dashed border-yellow-300 group-active:border-yellow-300 rounded"></span>
