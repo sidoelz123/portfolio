@@ -4,17 +4,17 @@ import { AkGithubFill, AkLinkedinBoxFill, AkInstagramFill } from '@kalimahapps/v
 </script>
 <template>
   <div class="bg-yellow-300 rounded-2xl relative h-full">
-    <div class="hidden lg:block absolute bg-neutral-800 top-0 left-0 h-14 block">
-      <div class="text-white flex">
-        <div class="bg-yellow-300">
-          <p class="rounded-br-3xl pl-4 bg-neutral-800 pr-10 py-2 ">Portfolio</p>
-        </div>
-        <div>
-          <p class="rounded-tl-xl bg-yellow-300 h-full text-transparent">.</p>
-        </div>
-      </div>
-      <div class="bg-yellow-300 rounded-tl-xl text-transparent h-4">.</div>
-    </div>
+    <!-- <div class="hidden lg:block absolute bg-neutral-800 top-0 left-0 h-14 "> -->
+    <!--   <div class="text-white flex"> -->
+    <!--     <div class="bg-yellow-300"> -->
+    <!--       <p class="rounded-br-3xl pl-4 bg-neutral-800 pr-10 py-2 ">Portfolio</p> -->
+    <!--     </div> -->
+    <!--     <div> -->
+    <!--       <p class="rounded-tl-xl bg-yellow-300 h-full text-transparent">.</p> -->
+    <!--     </div> -->
+    <!--   </div> -->
+    <!--   <div class="bg-yellow-300 rounded-tl-xl text-transparent h-4">.</div> -->
+    <!-- </div> -->
     <div class="p-4 w-full  text-neutral-900 relative flex flex-col justify-end h-full">
       <div class="absolute right-0 top-0 overflow-hidden bg-transparent rounded-full mb-4 w-52 h-52 z-50">
         <div
@@ -48,6 +48,5 @@ import { AkGithubFill, AkLinkedinBoxFill, AkInstagramFill } from '@kalimahapps/v
 
       </div>
     </div>
-
   </div class="bg-yellow-300">
 </template>
