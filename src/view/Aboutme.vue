@@ -1,11 +1,15 @@
 <script setup lang="ts">
+import SideProfile from '../components/SideProfile.vue';
 import { data_diri } from '../utils/data_dummy';
 </script>
 
 <template>
   <div class="lg:hidden w-full ">
   </div>
-  <p class="text-justify indent-10 text-xl leading-8">
+  <div class="lg:hidden">
+    <SideProfile />
+  </div>
+  <p class="text-justify indent-10 text-xl mt-4 lg:mt-0 leading-8">
     I am a fresh graduate of Bachelor Degree of Information Technology from Politeknik Harapan Bersama, with a deep
     interest in software development, especially in the frontend area. I have a strong interest in JavaScript such as
     Vue.js and React.js. With a high passion for learning, I always strive to expand my knowledge and keep up with the

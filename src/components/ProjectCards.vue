@@ -1,6 +1,7 @@
 <template>
-  <article class="flex bg-white transition border-4 border-white  hover:border-yellow-300 rounded-xl overflow-hidden">
-    <div class="hidden sm:block sm:basis-56">
+  <article
+    class="flex bg-white flex-col md:flex-row transition border-4 border-white  hover:border-yellow-300 rounded-xl overflow-hidden">
+    <div class=" sm:basis-56">
       <img :alt="imageAlt" :src="imageUrl" class="aspect-square h-full w-full object-cover" />
     </div>
 

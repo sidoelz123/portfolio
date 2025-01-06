@@ -4,7 +4,7 @@ import { AkGithubFill, AkLinkedinBoxFill, AkInstagramFill } from '@kalimahapps/v
 </script>
 <template>
   <div class="bg-yellow-300 rounded-2xl relative h-full">
-    <div class="absolute bg-neutral-800 top-0 left-0 h-14 block">
+    <div class="hidden lg:block absolute bg-neutral-800 top-0 left-0 h-14 block">
       <div class="text-white flex">
         <div class="bg-yellow-300">
           <p class="rounded-br-3xl pl-4 bg-neutral-800 pr-10 py-2 ">Portfolio</p>
@@ -24,8 +24,8 @@ import { AkGithubFill, AkLinkedinBoxFill, AkInstagramFill } from '@kalimahapps/v
           <img class="z-50" :src="data_diri.foto" :alt="data_diri.foto">
         </div>
       </div>
-      <p class="text-5xl font-thin text-neutral-800">i'am,</p>
-      <p class="font-bold text-6xl">{{ data_diri.name }}</p>
+      <p class="text-2xl mt-48  md:mt-0 lg:text-5xl font-thin text-neutral-800">i'am,</p>
+      <p class="font-bold text-2xl lg:text-6xl">{{ data_diri.name }}</p>
       <p class="text-3xl font-semibold mt-5">{{ data_diri.role }}</p>
       <p>{{ data_diri.email }}</p>
       <div class="text-3xl flex space-x-2">
