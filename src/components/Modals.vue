@@ -10,7 +10,7 @@
         </button>
       </header>
 
-      <div class="mt-4">
+      <div @click="close" class="mt-4">
         <slot></slot>
       </div>
 

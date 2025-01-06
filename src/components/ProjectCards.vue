@@ -16,7 +16,7 @@
         </p>
       </div>
 
-      <div class="flex w-full justify-between items-center ">
+      <div class="flex w-full justify-between items-end ">
         <div class="text-neutral-800 sm:px-6 px-4">
           <div class="flex flex-wrap gap-2">
             <p v-for="(tag, index) in tags" :key="index"
